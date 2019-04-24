@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.marianm"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "Montibeller_Test",
+        "packageName": "com.marianm",
+        "packageFolder": "com/marianm",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Memory",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "ZjUxMTdkNWYzNTMxNDM2MWJkNGYwYmQ0OTVmOTAxNzJmMjRiOWM5ODZiN2NhYmQxMDUyNDVmNWM1NmQ0NGM4MzFlODRlZmU3ZmQ5ZGVkMTcwMDYyZTdlNzk3MzkxNDhiZTg2NDZkN2QzNTE0OGEwM2IyNDI4NjBmZWRmYjg0Yjg=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
